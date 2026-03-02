@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "outputDirectory": "public",
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://office.ziziyi.com",
+      "permanent": false
+    }
+  ]
+}
